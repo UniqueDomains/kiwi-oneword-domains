@@ -1,10 +1,10 @@
-# Available .KIWI One-Word Domains (9,398)
+# Available .KIWI One-Word Domains (9,914)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C398%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C914%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .kiwi one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,398 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,914 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,398 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,914 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/kiwi`  
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | makers.kiwi       | available | $35.68    | —             | 62             | 67     | 6      | namecheap        |
 | agents.kiwi       | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC |
-| update.kiwi       | premium   | $73.36    | —             | 88             | 29     | 7      | name.com         |
+| slots.kiwi        | premium   | $1,102.59 | —             | 49             | 31     | 5      | name.com         |
 | shortcuts.kiwi    | available | $35.68    | —             | 48             | 41     | 10     | namecheap        |
-| brands.kiwi       | premium   | $55.12    | —             | 62             | 28     | 6      | name.com         |
+| update.kiwi       | premium   | $73.36    | —             | 88             | 29     | 7      | name.com         |
 | lets.kiwi         | available | $35.68    | —             | 77             | 39     | 4      | namecheap        |
-| pages.kiwi        | premium   | $55.14    | —             | 52             | 28     | 5      | name.com         |
+| brands.kiwi       | premium   | $55.12    | —             | 62             | 28     | 6      | name.com         |
 | whynot.kiwi       | available | $35.68    | —             | 74             | 39     | 7      | namecheap        |
+| pages.kiwi        | premium   | $55.14    | —             | 52             | 28     | 5      | name.com         |
+| prompts.kiwi      | available | $35.68    | —             | 54             | 39     | 7      | namecheap        |
 | trees.kiwi        | premium   | $55.36    | —             | 58             | 26     | 5      | name.com         |
 | intelligence.kiwi | available | $35.68    | —             | 84             | 38     | 12     | namecheap        |
 | comics.kiwi       | premium   | $55.07    | —             | 68             | 24     | 6      | name.com         |
 | justin.kiwi       | available | $35.68    | —             | 58             | 38     | 7      | namecheap        |
-| teachers.kiwi     | premium   | $183.77   | —             | 56             | 22     | 8      | name.com         |
+| coupons.kiwi      | premium   | $183.99   | —             | 52             | 24     | 7      | name.com         |
 | yellowpages.kiwi  | available | $35.68    | —             | 78             | 32     | 12     | namecheap        |
 | machines.kiwi     | premium   | $42.99    | —             | 56             | 22     | 8      | name.com         |
 | trends.kiwi       | available | $35.68    | —             | 60             | 32     | 6      | namecheap        |
 | designs.kiwi      | premium   | $54.94    | —             | 72             | 21     | 7      | name.com         |
 | commonsense.kiwi  | available | $35.68    | —             | 86             | 30     | 12     | namecheap        |
-| hills.kiwi        | premium   | $55.14    | —             | 65             | 20     | 5      | name.com         |
-| hashtag.kiwi      | available | $35.68    | —             | 82             | 30     | 7      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,398 live domains                               |
+| 1,000-row public sample | 9,914 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIWI One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIWI One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
