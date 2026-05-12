@@ -79,11 +79,11 @@ print(df.head())
 | comics.kiwi       | premium   | $55.07    | —             | 68             | 24     | 6      | name.com         |
 | justin.kiwi       | available | $35.68    | —             | 58             | 38     | 7      | namecheap        |
 | coupons.kiwi      | premium   | $183.99   | —             | 52             | 24     | 7      | name.com         |
-| yellowpages.kiwi  | available | $35.68    | —             | 78             | 32     | 12     | namecheap        |
+| hashtag.kiwi      | available | $35.68    | —             | 82             | 32     | 7      | namecheap        |
 | machines.kiwi     | premium   | $42.99    | —             | 56             | 22     | 8      | name.com         |
-| trends.kiwi       | available | $35.68    | —             | 60             | 32     | 6      | namecheap        |
+| yellowpages.kiwi  | available | $35.68    | —             | 78             | 32     | 12     | namecheap        |
 | designs.kiwi      | premium   | $54.94    | —             | 72             | 21     | 7      | name.com         |
-| commonsense.kiwi  | available | $35.68    | —             | 86             | 30     | 12     | namecheap        |
+| trends.kiwi       | available | $35.68    | —             | 60             | 32     | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
