@@ -68,7 +68,7 @@ print(df.head())
 | agents.kiwi       | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC |
 | slots.kiwi        | premium   | $1,102.59 | —             | 49             | 31     | 5      | name.com         |
 | shortcuts.kiwi    | available | $35.68    | —             | 48             | 41     | 10     | namecheap        |
-| update.kiwi       | premium   | $73.36    | —             | 88             | 29     | 7      | name.com         |
+| update.kiwi       | premium   | $73.36    | —             | 88             | 28     | 7      | name.com         |
 | intelligence.kiwi | available | $35.68    | —             | 84             | 39     | 12     | namecheap        |
 | brands.kiwi       | premium   | $55.12    | —             | 62             | 28     | 6      | name.com         |
 | lets.kiwi         | available | $35.68    | —             | 77             | 39     | 4      | namecheap        |
