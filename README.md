@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .kiwi one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,658 domains · **Median ask:** $37.84 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/kiwi`
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | dad.kiwi  | premium   | $73.17    | —             | high           | low    | 3      | name.com      |
 | any.kiwi  | available | $35.68    | —             | high           | medium | 3      | namecheap     |
 | code.kiwi | resell    | —         | —             | high           | medium | 4      | Name.com Inc. |
-| end.kiwi  | premium   | $55.97    | $55.97        | medium         | low    | 3      | name.com      |
+| end.kiwi  | premium   | $55.90    | $55.90        | medium         | low    | 3      | name.com      |
 | arm.kiwi  | available | $35.68    | —             | high           | medium | 3      | namecheap     |
 | gag.kiwi  | premium   | $74.43    | —             | high           | low    | 3      | name.com      |
 | bar.kiwi  | available | $35.68    | —             | high           | low    | 3      | namecheap     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIWI One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIWI One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
