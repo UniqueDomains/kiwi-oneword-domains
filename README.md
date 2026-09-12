@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .kiwi one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,227 domains · **Median ask:** $37.11 · **High-demand under $2,500:** 28
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/kiwi`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIWI One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIWI One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
