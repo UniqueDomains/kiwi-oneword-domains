@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .kiwi one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,976 domains · **Median ask:** $36.05 · **High-demand under $2,500:** 25
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/kiwi`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| aaa.kiwi  | available | $35.68    | —             | high           | medium | 3      | namecheap     |
-| the.kiwi  | resell    | —         | —             | high           | medium | 3      | eNom, Inc     |
-| dad.kiwi  | premium   | $73.17    | —             | high           | low    | 3      | name.com      |
-| any.kiwi  | available | $35.68    | —             | high           | medium | 3      | namecheap     |
-| code.kiwi | resell    | —         | —             | high           | medium | 4      | Name.com Inc. |
-| end.kiwi  | premium   | $61.10    | $61.10        | medium         | low    | 3      | namecheap     |
-| arm.kiwi  | available | $35.68    | —             | high           | medium | 3      | namecheap     |
-| gag.kiwi  | premium   | $74.43    | —             | high           | low    | 3      | name.com      |
-| bar.kiwi  | available | $35.68    | —             | high           | low    | 3      | namecheap     |
-| hey.kiwi  | premium   | $41.60    | $41.60        | medium         | medium | 3      | namecheap     |
-| bow.kiwi  | available | $35.68    | —             | high           | low    | 3      | namecheap     |
-| hot.kiwi  | premium   | $202.80   | $202.80       | medium         | low    | 3      | namecheap     |
-| boy.kiwi  | available | $35.68    | —             | medium         | low    | 3      | namecheap     |
-| let.kiwi  | premium   | $55.28    | —             | high           | low    | 3      | name.com      |
-| cup.kiwi  | available | $31.98    | $35.68        | medium         | low    | 3      | namecheap     |
-| mac.kiwi  | premium   | $74.51    | —             | high           | high   | 3      | name.com      |
-| ear.kiwi  | available | $35.68    | —             | high           | low    | 3      | namecheap     |
-| mat.kiwi  | premium   | $54.89    | $54.89        | medium         | low    | 3      | name.com      |
-| egg.kiwi  | available | $35.68    | —             | high           | low    | 3      | namecheap     |
-| pal.kiwi  | premium   | $73.42    | —             | high           | low    | 3      | name.com      |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| negative.kiwi  | available | $35.68    | —             | high           | low    | 8      | namecheap     |
+| complex.kiwi   | premium   | $72.07    | $72.07        | high           | low    | 7      | name.com      |
+| contrary.kiwi  | available | $35.68    | —             | high           | low    | 8      | namecheap     |
+| compound.kiwi  | available | $35.68    | —             | high           | low    | 8      | namecheap     |
+| each.kiwi      | available | $35.68    | —             | high           | low    | 4      | namecheap     |
+| duplicate.kiwi | available | $35.68    | —             | high           | low    | 9      | namecheap     |
+| different.kiwi | available | $35.68    | —             | high           | low    | 9      | namecheap     |
+| aaa.kiwi       | available | $35.68    | —             | medium         | medium | 3      | namecheap     |
+| the.kiwi       | resell    | —         | —             | high           | medium | 3      | eNom, Inc     |
+| dad.kiwi       | premium   | $73.17    | —             | high           | low    | 3      | name.com      |
+| any.kiwi       | available | $31.98    | $35.68        | medium         | low    | 3      | namecheap     |
+| code.kiwi      | resell    | —         | —             | high           | medium | 4      | Name.com Inc. |
+| end.kiwi       | premium   | $61.10    | $61.10        | medium         | low    | 3      | namecheap     |
+| arm.kiwi       | available | $35.68    | —             | high           | medium | 3      | namecheap     |
+| gag.kiwi       | premium   | $74.43    | —             | high           | low    | 3      | name.com      |
+| bar.kiwi       | available | $35.68    | —             | high           | low    | 3      | namecheap     |
+| hey.kiwi       | premium   | $41.60    | $41.60        | medium         | medium | 3      | namecheap     |
+| bow.kiwi       | available | $31.98    | $35.68        | medium         | low    | 3      | namecheap     |
+| hot.kiwi       | premium   | $202.80   | $202.80       | medium         | low    | 3      | namecheap     |
+| boy.kiwi       | available | $35.68    | —             | medium         | low    | 3      | namecheap     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIWI One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIWI One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
