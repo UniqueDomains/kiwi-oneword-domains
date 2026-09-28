@@ -1,10 +1,10 @@
-# Available .KIWI One-Word Domains (23,722)
+# Available .KIWI One-Word Domains (24,265)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C722%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C265%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .kiwi one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,722 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,265 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,722 domains · **Median ask:** $37.47 · **High-demand under $2,500:** 47
+**Public extract:** 1,000 rows · **Live catalog:** 24,265 domains · **Median ask:** $37.26 · **High-demand under $2,500:** 49
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/kiwi`
@@ -72,17 +72,17 @@ print(df.head())
 | ali.kiwi  | premium   | $81.90    | $81.90        | high           | high   | 3      | namecheap |
 | cup.kiwi  | available | $31.98    | $35.68        | high           | low    | 3      | namecheap |
 | gag.kiwi  | premium   | $74.43    | —             | high           | low    | 3      | name.com  |
-| hbo.kiwi  | available | $35.68    | —             | high           | medium | 3      | namecheap |
+| gig.kiwi  | available | $31.98    | $35.68        | high           | low    | 3      | namecheap |
 | lot.kiwi  | premium   | $81.90    | $81.90        | high           | low    | 3      | namecheap |
-| hex.kiwi  | available | $31.98    | $35.68        | high           | medium | 3      | namecheap |
+| hbo.kiwi  | available | $35.68    | —             | high           | medium | 3      | namecheap |
 | mat.kiwi  | premium   | $54.89    | $54.89        | high           | low    | 3      | name.com  |
-| iaa.kiwi  | available | $31.98    | $35.68        | medium         | low    | 3      | namecheap |
+| hex.kiwi  | available | $31.98    | $35.68        | high           | medium | 3      | namecheap |
 | eric.kiwi | premium   | $81.90    | $81.90        | high           | medium | 4      | namecheap |
-| idk.kiwi  | available | $35.68    | —             | medium         | low    | 3      | namecheap |
+| iaa.kiwi  | available | $31.98    | $35.68        | medium         | low    | 3      | namecheap |
 | find.kiwi | premium   | $73.44    | —             | high           | medium | 4      | name.com  |
-| ilx.kiwi  | available | $31.98    | $35.68        | medium         | low    | 3      | namecheap |
+| idk.kiwi  | available | $35.68    | —             | medium         | low    | 3      | namecheap |
 | icon.kiwi | premium   | $74.51    | —             | high           | medium | 4      | name.com  |
-| mcc.kiwi  | available | $31.98    | $35.68        | high           | low    | 3      | namecheap |
+| ilx.kiwi  | available | $31.98    | $35.68        | medium         | low    | 3      | namecheap |
 | kale.kiwi | premium   | $41.60    | $41.60        | high           | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,722 live domains                        |
+| 1,000-row public sample | 24,265 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 47 high-demand names under $2,500          |
+| Basic exported fields   | 49 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
