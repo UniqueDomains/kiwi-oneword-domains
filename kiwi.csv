@@ -1,5 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 5a8a3b66-2a5b-47af-bb05-34878b4f387c,officially.kiwi,available,31.98,35.68,high,low,10,namecheap,,,14/09/2026 19:44
+174bac72-1faa-4f8d-838f-250d4b46e07c,dupree.kiwi,available,21.28,21.28,medium,low,6,dynadot,,,02/10/2026 10:30
 7da0d267-a2cc-4f8b-bb2b-4456c0abe534,pamphlet.kiwi,available,31.98,35.68,high,low,8,namecheap,,,24/09/2026 07:11
 d3f1c4f6-6cf8-486e-986b-aae904f655be,survives.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,29/09/2026 17:53
 7470fe45-cee5-4773-bd66-6f9905635c34,retract.kiwi,available,21.41,21.41,medium,low,7,dynadot,,,01/10/2026 04:08
@@ -15,8 +16,10 @@ f7557879-99b5-478c-ad20-23b930b966f5,oxford.kiwi,available,21.43,21.43,high,low,
 d10cc831-f4ca-4577-8d6a-1b3cdf7b6b5f,dangerous.kiwi,available,42.99,42.99,medium,low,9,name.com,,,13/08/2026 17:15
 316d02e7-f75f-4950-a7e7-76fd7e11aa1e,swans.kiwi,available,21.41,21.41,medium,low,5,dynadot,,,01/10/2026 16:56
 82dd7880-ace7-44ad-ac30-2c300be2b3ed,powder.kiwi,premium,41.6,41.6,high,low,6,namecheap,,,25/09/2026 23:00
+417666a5-6b1a-4f28-9863-36dd07aa1d24,silicone.kiwi,available,21.28,21.28,high,low,8,dynadot,,,02/10/2026 06:24
 8b4fb0d6-c3cc-48fe-80b5-f7dd77c30415,contiguous.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,12/08/2026 23:11
 42ef87ab-8a81-481c-afd4-60c272e03312,impatient.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,21/08/2026 21:53
+6a926038-4ae3-498a-8496-0efbbc43a865,retake.kiwi,available,31.98,35.68,high,low,6,namecheap,,,03/10/2026 01:55
 20a19a1d-85e0-4d14-acae-744f16185032,origin.kiwi,premium,61.1,61.1,high,low,6,namecheap,,,08/09/2026 13:23
 320e4387-be47-46c8-9776-3a9dea1a8e31,acquiring.kiwi,available,31.98,35.68,high,low,9,namecheap,,,17/09/2026 02:42
 54f1b087-d3ea-479f-bdc8-4c77ed0cbf36,musket.kiwi,available,21.41,21.41,high,low,6,dynadot,,,01/10/2026 20:57
@@ -24,6 +27,7 @@ d10cc831-f4ca-4577-8d6a-1b3cdf7b6b5f,dangerous.kiwi,available,42.99,42.99,medium
 cccd5abd-7435-40c0-8d67-3bea2d280fba,adventist.kiwi,available,31.98,35.68,high,low,9,namecheap,,,17/09/2026 10:33
 8950a668-1a09-4562-8ce9-2ea1aa87bd11,baal.kiwi,available,31.98,35.68,high,low,4,namecheap,,,21/09/2026 12:05
 0b676246-1fec-4916-893d-750c54dd46c0,shifting.kiwi,available,21.72,21.72,high,low,8,dynadot,,,27/09/2026 21:05
+55885919-3e1a-4be0-a8c8-39d3249ecb9f,psychedelic.kiwi,available,31.98,35.68,high,low,11,namecheap,,,03/10/2026 03:00
 0177c036-5ad7-4f7a-b503-7a6cdcef19a1,sneezy.kiwi,available,31.98,35.68,high,medium,6,namecheap,,,10/09/2026 12:34
 48e188a9-dfe9-4476-aac2-8622a445fc67,defensive.kiwi,available,31.98,35.68,high,low,9,namecheap,,,13/08/2026 23:15
 604ecb14-e23a-46bc-89d2-a68e7de4a094,meade.kiwi,available,31.98,35.68,high,low,5,namecheap,,,27/09/2026 04:12
@@ -40,7 +44,7 @@ d21c6820-0b2f-4c63-b35f-332785f0c3fc,ipad.kiwi,available,21.41,21.41,high,high,4
 2c9e687b-4d20-4528-a098-f7b9608f749f,assiduous.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,07/08/2026 06:09
 dfaaeb79-1969-4696-8364-84904c5c41df,mattresses.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,20/09/2026 14:45
 5e31f526-54b4-412b-a622-3670b3e3f376,situated.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,25/09/2026 14:16
-c463c271-c416-456a-9045-b6a59537f41f,feet.kiwi,available,35.68,,high,low,4,namecheap,,,
+c463c271-c416-456a-9045-b6a59537f41f,feet.kiwi,available,31.98,35.68,high,low,4,namecheap,,,02/10/2026 15:14
 0b118b99-27ba-4d26-a92f-f1d23353a741,yosef.kiwi,available,21.43,21.43,medium,low,5,dynadot,,,30/09/2026 22:02
 ecaf4386-4a23-4a73-a42d-cbb38520fda8,receipts.kiwi,available,21.43,21.43,high,low,8,dynadot,,,30/09/2026 09:17
 abc26db2-b2f6-4951-be1d-5e3c4199d902,adansonia.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,17/09/2026 06:21
@@ -54,6 +58,7 @@ c1aedb41-3867-4b1f-b37e-7f0b7c8cedef,humbert.kiwi,available,21.41,21.41,medium,l
 1e18753e-0ca9-47a7-b3de-00c7cecd4d22,positivist.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,09/09/2026 00:12
 6be9c000-995f-4a6d-ad2b-b08bf740fc25,pucka.kiwi,available,31.98,35.68,high,low,5,namecheap,,,09/09/2026 05:26
 2172ae0a-130a-433c-8244-4b22bde9c0de,takeout.kiwi,available,31.98,35.68,high,low,8,namecheap,,,19/09/2026 06:56
+e0c92c66-21d0-43d4-8bbe-3e1946019496,bartram.kiwi,available,21.28,21.28,medium,low,7,dynadot,,,02/10/2026 19:58
 bd6ed7cd-92bc-42ef-900b-f2da8cf89211,stoical.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,10/09/2026 20:59
 f00d14a9-0384-47ea-a18e-9337f3b60c51,vines.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,29/09/2026 23:04
 4de7feea-c6ed-4969-ac1f-5e41b6c7b967,ellis.kiwi,available,31.98,35.68,high,low,5,namecheap,,,25/09/2026 20:56
@@ -67,7 +72,7 @@ b207ab05-8674-41aa-85f8-ec699e15ab3d,differently.kiwi,available,31.98,35.68,medi
 78e291bf-f682-4256-ba54-6bbe80bc05b4,malabar.kiwi,available,21.52,21.52,high,low,7,dynadot,,,29/09/2026 09:09
 edc613ca-81b8-4855-ba7b-306a29028606,archery.kiwi,available,31.98,35.68,high,low,7,namecheap,,,20/09/2026 02:00
 0394dee9-62d4-4d39-af24-e47e9d668dd5,ethyne.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,17/09/2026 00:23
-9f87ed03-c6de-43d0-a310-d55af6bee55b,runabout.kiwi,available,35.68,,medium,low,9,namecheap,,,
+9f87ed03-c6de-43d0-a310-d55af6bee55b,runabout.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,02/10/2026 17:47
 ed7a4c28-123a-442f-b4ba-8bc35734ff70,lakota.kiwi,available,21.52,21.52,high,low,6,dynadot,,,29/09/2026 13:15
 11ddb868-19c1-46ba-8030-4fa41ce2679e,prelude.kiwi,available,21.43,21.43,high,low,7,dynadot,,,30/09/2026 10:52
 e29581f8-d29d-4f9a-b967-97d5cf4a515f,aorist.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,19/09/2026 16:03
@@ -82,12 +87,14 @@ c8e36d30-ed08-4131-913c-f290f2350903,neon.kiwi,available,31.98,35.68,high,medium
 2ccf7e3b-2bc5-4447-a929-3c795720ecf8,clone.kiwi,available,31.98,35.68,high,low,5,namecheap,,,24/09/2026 15:51
 88432fe6-0aa6-4b95-b6ec-8fe23ce8df98,belt.kiwi,available,31.98,35.68,high,low,4,namecheap,,,28/09/2026 13:21
 e89dac8e-ee97-404a-b73c-2865513341b9,dahl.kiwi,available,31.98,35.68,high,low,4,namecheap,,,28/09/2026 09:14
+f1440fa7-ed40-4dd5-b5ec-774697c49975,fulda.kiwi,available,21.28,21.28,high,low,5,dynadot,,,02/10/2026 20:14
 de5d8b12-995b-4aec-84ec-dbba19be199b,names.kiwi,available,31.98,35.68,high,low,5,namecheap,,,25/09/2026 09:32
 fdd6ebf2-a42e-4fea-bc78-1cbdcb227e0a,composed.kiwi,available,31.98,35.68,high,low,8,namecheap,,,23/09/2026 17:50
 d8cf5dd9-e35f-4f98-89bb-4958f2f9db8a,antitoxin.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,19/09/2026 15:12
 596a41aa-0fe5-47ca-856a-9f3a4ad3955e,engorge.kiwi,available,42.99,42.99,medium,low,7,name.com,,,23/09/2026 17:25
 7e916c8b-a803-4dbf-907d-ff9c17f2a84f,crawling.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,28/09/2026 05:30
 f111e81e-ffa8-40d9-96fd-3ef69f590598,coffeehousing.kiwi,available,31.98,35.68,medium,low,13,namecheap,,,20/09/2026 21:09
+8ecd1e09-3cb6-4f75-8e2a-a0cb1edea54f,rewind.kiwi,available,21.28,21.28,high,low,6,dynadot,,,02/10/2026 06:47
 d6031588-e788-4715-8dba-39e8c217e8b8,wizards.kiwi,premium,78,78,high,low,7,namecheap,,,02/10/2026 03:40
 40362cc7-d051-4fa9-b070-26535db81ae8,sufism.kiwi,available,31.98,35.68,high,low,6,namecheap,,,01/10/2026 21:54
 bc2124b6-0ad7-42f0-bde2-82ac594b9a53,aspiration.kiwi,available,31.98,35.68,high,low,10,namecheap,,,18/09/2026 16:53
@@ -120,6 +127,7 @@ d737d040-41c2-420a-8f82-67ca424b7d45,wegener.kiwi,available,31.98,35.68,medium,l
 3cf81917-dc3a-4468-8971-c452d807d0b8,giants.kiwi,available,21.47,21.47,high,medium,6,dynadot,,,28/09/2026 13:23
 faae1da8-c652-4d90-885d-d55e543a2852,bantu.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,08/08/2026 14:50
 1ea449a9-74b4-4747-a78b-65e18a7168d7,scruffy.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,10/09/2026 00:25
+de9231ba-da0d-4d16-a9ad-bde21b33783a,tampere.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,02/10/2026 06:33
 fa049791-79e4-4d9c-b4c2-c4d09ff7bdfb,taurus.kiwi,premium,61.1,61.1,high,low,6,namecheap,,,19/09/2026 04:39
 277a5f48-6f5b-45b9-958c-3227fd3b64bf,goddess.kiwi,premium,47.15,47.15,high,low,7,dynadot,,,27/09/2026 13:50
 334652c2-b42c-448a-a506-3b0390540e3d,montevideo.kiwi,available,31.98,35.68,high,low,10,namecheap,,,24/09/2026 12:30
@@ -128,7 +136,7 @@ fa049791-79e4-4d9c-b4c2-c4d09ff7bdfb,taurus.kiwi,premium,61.1,61.1,high,low,6,na
 d3b8e5c0-168a-478f-97eb-71526f3e75be,acids.kiwi,available,35.68,,medium,low,5,namecheap,,,
 20950356-dcfb-42b7-beee-ad9faecd5296,weaponry.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,20/09/2026 07:43
 0a9959fd-b037-47b0-a115-a686f7895d6b,panipat.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,22/09/2026 15:36
-a4211035-7f60-49e6-bd08-5399e67a38fb,playdate.kiwi,available,35.68,,high,low,9,namecheap,,,
+a4211035-7f60-49e6-bd08-5399e67a38fb,playdate.kiwi,available,21.28,21.28,high,low,9,dynadot,,,02/10/2026 21:12
 caa4acf8-9f9c-4ac5-86e7-ab77a73d5a22,rupicolous.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,09/09/2026 19:41
 e3c4530b-709c-47e0-9ccf-014db86db07b,resister.kiwi,available,42.99,42.99,medium,low,8,name.com,,,17/09/2026 10:48
 42fbeb01-c8da-4974-a2a8-ed43bfb0b1aa,diplomat.kiwi,available,21.52,21.52,high,low,8,dynadot,,,29/09/2026 15:06
@@ -149,10 +157,11 @@ aad405c5-370a-46ed-aaee-be873766e2bd,gnomish.kiwi,available,31.98,35.68,medium,l
 474a039b-2b07-467b-b318-c6b623ef6dcc,ashtoreth.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,20/09/2026 14:02
 8d15cde6-f117-4734-88a9-0396ed862a2b,explaining.kiwi,available,21.72,21.72,high,low,10,dynadot,,,27/09/2026 22:18
 4264b13c-9e1b-4b71-a567-7822229d54e9,razorback.kiwi,available,31.98,35.68,high,low,9,namecheap,,,09/09/2026 10:48
-3d354446-68df-4d78-85d9-cbd6758a941c,hbo.kiwi,available,35.68,,high,medium,3,namecheap,,,
+3d354446-68df-4d78-85d9-cbd6758a941c,hbo.kiwi,available,21.28,21.28,high,medium,3,dynadot,,,02/10/2026 08:34
 53f32941-e06b-4a70-835e-23fb19e5c033,arbitrary.kiwi,available,31.98,35.68,high,low,9,namecheap,,,06/08/2026 12:54
 8373e65b-da58-416b-b75d-cf827235fa3d,endocrinal.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,17/08/2026 01:02
 f1ef8e1d-d080-4839-8557-3878bc65c2ec,presiding.kiwi,available,21.52,21.52,medium,low,9,dynadot,,,29/09/2026 16:06
+b40614e7-6fc3-4ab6-89be-bad1476cfd65,stanislav.kiwi,available,21.34,21.34,high,low,9,dynadot,,,03/10/2026 04:49
 b688eac7-640e-4118-b1a8-a5d8576b8632,suspects.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,27/09/2026 03:17
 4524e277-7495-47ae-b2fe-637f175d1bea,getable.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,18/08/2026 23:04
 2b1f2fdd-fc10-414e-b319-45d7a521f8b1,monger.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,22/09/2026 05:36
@@ -179,8 +188,9 @@ d2c2003c-b644-49f4-9047-6b91b6302b86,informed.kiwi,available,31.98,35.68,high,lo
 cbec8452-f97c-43f8-a68e-49767107a734,unspoiled.kiwi,available,31.98,35.68,high,low,9,namecheap,,,12/09/2026 07:08
 d59265b4-d7fb-4781-bc42-49caecac8496,axile.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,08/08/2026 01:56
 7f01c759-2883-4309-a635-4e02a5ee2afb,snidely.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,16/09/2026 03:18
+f5cc0481-c5f4-4346-858c-8aa1d39cc27d,deptford.kiwi,available,21.28,21.28,medium,low,8,dynadot,,,02/10/2026 10:48
 ffb62809-1c4b-4d1a-96a7-549cfc5afe40,camacho.kiwi,available,31.98,35.68,high,low,7,namecheap,,,01/10/2026 10:54
-5042e89a-a345-4397-bcee-d96e56b64d1f,vaccination.kiwi,available,35.68,,high,low,11,namecheap,,,
+5042e89a-a345-4397-bcee-d96e56b64d1f,vaccination.kiwi,available,21.28,21.28,high,low,11,dynadot,,,02/10/2026 22:55
 0285ec99-7c8b-4968-9d86-ad11174d82da,giraffe.kiwi,available,31.98,35.68,high,low,7,namecheap,,,29/09/2026 05:59
 d29186de-3be8-46ae-835a-79ac1c8872af,amaranthus.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,18/09/2026 15:51
 b77b2801-f596-47b3-9fa2-aad386e5ebc9,breakfasts.kiwi,premium,61.1,61.1,medium,low,10,namecheap,,,20/09/2026 13:21
@@ -189,6 +199,7 @@ b77b2801-f596-47b3-9fa2-aad386e5ebc9,breakfasts.kiwi,premium,61.1,61.1,medium,lo
 7de1bda6-1bb1-4d50-ae38-6d0b2c776a40,irrational.kiwi,available,31.98,35.68,high,low,10,namecheap,,,25/09/2026 11:23
 92743889-f399-4202-9521-d6c3fa592ae3,aquinas.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,19/09/2026 23:16
 9613c113-395f-42d8-a31f-eee4db524e54,nympho.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,03/09/2026 23:18
+98f50b32-79d3-4e8e-8c47-0e022ea3a5a8,shahid.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,02/10/2026 18:39
 5c0c5c6f-92e8-4876-9d92-64dd0eb07d3f,part.kiwi,available,31.98,35.68,high,low,4,namecheap,,,15/09/2026 19:03
 aa362984-5c18-46e5-b541-5d339a3d5c95,other.kiwi,available,35.68,,high,low,5,namecheap,,,26/09/2026 00:34
 5c903555-779f-434a-88e1-836a44ee2ad0,palpable.kiwi,available,31.98,35.68,high,low,8,namecheap,,,05/09/2026 00:07
@@ -206,8 +217,10 @@ d57d5da8-80ec-4862-80dc-777ccef4fb62,plot.kiwi,available,31.98,35.68,high,low,4,
 496f6716-5bd4-4824-bc27-4e02cd95de22,armoury.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,20/09/2026 07:33
 e534159e-7196-4bc2-a2c3-ff52a166ee3e,amicably.kiwi,available,31.98,35.68,high,low,8,namecheap,,,13/09/2026 19:29
 3fc61a26-1501-46b5-9554-c12fd481861b,percival.kiwi,available,31.98,35.68,high,low,8,namecheap,,,28/09/2026 16:27
+725aaf23-60a2-4b75-b4cd-e8b45a13dcd5,dunfermline.kiwi,available,31.98,35.68,high,low,11,namecheap,,,02/10/2026 10:34
 fe745cd4-4e59-4222-a20b-fbd9161e7800,moldable.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,25/08/2026 03:42
 621b1e4f-6f26-4c06-ab86-0a0300f5cb40,cheaper.kiwi,available,21.47,21.47,low,low,7,dynadot,,,28/09/2026 08:27
+8ddf156a-62fd-4b87-a75e-b4ac66141ba2,pirie.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,02/10/2026 20:25
 ca744717-f70f-4e78-8646-f601c4d2fc82,throats.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,20/09/2026 08:21
 5e235297-8d27-493a-a89e-dff8992ee1c6,unwell.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,
 eeeef509-024c-4858-bbfc-1723f3fbe2e6,strawberries.kiwi,premium,31.14,31.14,medium,low,12,dynadot,,,29/09/2026 23:41
@@ -218,10 +231,11 @@ c36122f9-6dca-4e5e-92f3-68c729c60b7a,chrysler.kiwi,available,21.43,21.43,high,me
 2c9bc4d0-e572-469e-9924-bd105ae47831,feed.kiwi,available,42.99,42.99,high,low,4,name.com,,,25/09/2026 05:56
 e8c327b4-2151-4c22-af22-85eb6e67ff6b,diaphanous.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,12/08/2026 14:26
 3a9e7f04-b628-4519-97c8-21fdab781b3d,werewolf.kiwi,available,31.98,35.68,high,low,8,namecheap,,,01/10/2026 20:23
+140dfe19-55e3-4e5a-9281-9b010ae91fb7,performative.kiwi,available,31.98,35.68,high,low,12,namecheap,,,02/10/2026 18:22
 5a036b05-018e-4cef-a2d5-4c67a66f90af,tailed.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,11/09/2026 07:08
 cc4c9258-1635-46e6-8346-4d17e1dbad85,triangle.kiwi,available,21.47,21.47,high,low,8,dynadot,,,28/09/2026 09:33
 28142c53-c4f9-4549-9579-ea38fd2f1ec3,unfathomed.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,12/09/2026 09:57
-f4f41e3d-84d5-4b48-b8aa-d6b687799e41,description.kiwi,available,35.68,,high,low,11,namecheap,,,
+f4f41e3d-84d5-4b48-b8aa-d6b687799e41,description.kiwi,available,21.28,21.28,high,low,11,dynadot,,,02/10/2026 21:04
 c6ac5f61-978d-4c28-ad6a-ccf6a01d60b7,habits.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,28/09/2026 04:46
 f17fbddd-c4a6-4615-8561-6117164b8c5f,roxy.kiwi,available,31.98,35.68,high,low,4,namecheap,,,01/10/2026 07:50
 d849983e-ec08-4499-89b3-7bf086a77a1b,underived.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,12/09/2026 07:29
@@ -242,7 +256,7 @@ b2a905e1-4cbc-4fe8-a1c7-44205806a577,telugu.kiwi,available,31.98,35.68,high,low,
 1703337d-31fd-43f4-b3e8-188e79660741,disassemble.kiwi,available,21.41,21.41,high,low,11,dynadot,,,01/10/2026 23:52
 2e15ccd9-a94d-40c3-85ee-d8c32789eb88,simone.kiwi,available,31.98,35.68,high,low,6,namecheap,,,27/09/2026 07:19
 6014bfec-fdc1-47a6-95b3-e25a6ac5b931,organ.kiwi,available,21.52,21.52,high,low,5,dynadot,,,29/09/2026 17:54
-b9048806-4a2e-44f0-a8c5-3477cdd284eb,disruptive.kiwi,available,21.47,21.47,medium,low,10,dynadot,,,28/09/2026 07:50
+b9048806-4a2e-44f0-a8c5-3477cdd284eb,disruptive.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,02/10/2026 11:08
 8acd82d8-29fd-49f4-9639-d85e4a4bc210,insurgents.kiwi,available,21.41,21.41,low,low,10,dynadot,,,01/10/2026 15:26
 f4c04055-300c-4587-a593-9ff67f497b90,sister.kiwi,available,31.98,35.68,high,low,6,namecheap,,,26/09/2026 00:18
 93d1acd7-f4c3-48a4-ad1f-cb5e5df58589,instal.kiwi,available,21.43,21.43,high,low,6,dynadot,,,30/09/2026 20:23
@@ -288,6 +302,7 @@ b5878477-b7e5-48f6-9858-91fc08767750,blm.kiwi,available,31.98,35.68,high,low,3,n
 c8a1354f-4398-448f-8a88-35d049cc20fa,frunze.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,23/09/2026 21:44
 6b9e4157-fd4d-4a57-beec-19b81e1038e2,essentially.kiwi,available,31.98,35.68,medium,low,11,namecheap,,,28/09/2026 07:07
 ab27ab9b-e912-44c5-b5cf-bd3ad033e71e,nuts.kiwi,available,31.98,35.68,high,low,4,namecheap,,,22/09/2026 08:20
+6a5f330c-16ef-410b-a377-1cf37fdafb13,eucalyptus.kiwi,available,21.28,21.28,high,low,10,dynadot,,,03/10/2026 00:41
 4255330d-eac1-4742-9c05-6ff9f210b54b,charivari.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,23/09/2026 06:08
 f5140359-deda-4bc9-8a5a-13e7b347146d,nonrandom.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,03/09/2026 20:26
 65a7b3c1-f13d-4637-921e-719bd39cce8b,homophobic.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,21/08/2026 13:04
@@ -303,6 +318,7 @@ d3c1fb27-3d55-41fa-ba4c-b4bac64e1770,sabha.kiwi,available,21.52,21.52,medium,low
 8cc6c683-29e2-4cf0-a03c-ded60778a93e,labelled.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,22/08/2026 17:15
 b66068db-e522-4c04-b8b3-e8f93125a7f9,wildly.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,16/09/2026 11:29
 67c94adc-27ff-4536-9e70-65ba45c5dbe9,verified.kiwi,available,31.98,35.68,high,medium,8,namecheap,,,13/09/2026 02:25
+439a1188-e959-4fb7-889e-5bb3f9bda166,nikos.kiwi,available,31.98,35.68,high,low,5,namecheap,,,03/10/2026 04:35
 5537bd05-1c05-48f3-8c79-1e832807d74e,burbling.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,11/08/2026 10:10
 ac93dd76-e7f6-4f10-a024-6caba9620516,mat.kiwi,premium,54.89,54.89,high,low,3,name.com,,,08/09/2026 07:48
 d7296c1b-f52e-4df2-a3a6-365d67932a6d,soundlike.kiwi,available,35.68,,low,low,10,namecheap,,,
@@ -315,7 +331,7 @@ d6d5f9dc-abf5-46f5-9e05-75ba7812b535,heidi.kiwi,available,31.98,35.68,high,low,5
 f54d8c18-d215-49ab-b512-c6fb382893a6,saame.kiwi,available,31.98,35.68,high,medium,5,namecheap,,,09/09/2026 21:08
 65a1215c-38db-4fac-9266-11048a809c90,fried.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,13/08/2026 22:34
 21f15433-a3b6-4307-9811-d5835acf00c5,peak.kiwi,available,31.98,35.68,high,medium,4,namecheap,,,24/09/2026 20:27
-6f3d4845-62ab-4a17-8ffc-dc4bfec0841c,structures.kiwi,available,35.68,,medium,low,10,namecheap,,,
+6f3d4845-62ab-4a17-8ffc-dc4bfec0841c,structures.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,02/10/2026 20:07
 48ded22e-fd76-4c9c-97f3-db9f4980f466,balata.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,21/09/2026 21:12
 92644a97-e0d8-4582-b833-a7e7958ae38e,guidance.kiwi,available,31.98,35.68,high,low,8,namecheap,,,01/10/2026 17:31
 5291b81c-8eb5-4b26-b872-1f52353018e0,biome.kiwi,available,31.98,35.68,high,low,5,namecheap,,,23/09/2026 18:30
@@ -327,10 +343,12 @@ c8be6bd3-043f-4fa8-865b-cf6da6c4ea51,madagascan.kiwi,available,31.98,35.68,high,
 ea9f5a9f-5ac6-4344-b225-482a93dda386,motto.kiwi,available,21.47,21.47,high,low,5,dynadot,,,28/09/2026 13:39
 fb7e5b6c-8736-4907-bb3f-2dfe5a8f4562,peeled.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,08/08/2026 18:24
 e1b0acb4-d9d4-44ab-831f-e97ea53ddd78,kale.kiwi,premium,41.6,41.6,high,low,4,namecheap,,,24/09/2026 06:48
+d27807b0-b10b-4065-8e14-1b25d68866ab,workmen.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,02/10/2026 12:33
 bf75e853-87e0-44b1-b02b-cb38b41a20cf,lucania.kiwi,available,42.99,42.99,medium,low,7,name.com,,,22/09/2026 10:51
 5896ad29-76ba-4ca9-9145-7fbfbbc46b98,quaint.kiwi,available,31.98,35.68,high,low,6,namecheap,,,04/09/2026 01:55
 88345f1f-441b-4561-bf30-d6490051291d,pineal.kiwi,available,31.98,35.68,high,medium,6,namecheap,,,08/09/2026 19:44
 add76a1b-e471-4830-820e-836f8658a840,strumpet.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,17/09/2026 10:22
+b4fd29e7-d9df-4037-a06a-4ec3f88c3059,mmm.kiwi,available,21.28,21.28,high,low,3,dynadot,,,02/10/2026 17:34
 23c20ffb-db2a-4e7a-85b5-7b9718a1b985,sterope.kiwi,available,31.98,35.68,low,low,7,namecheap,,,20/09/2026 17:14
 6f268d39-0ffe-4ddb-8316-d3642c1f9c2e,aggressive.kiwi,available,42.99,42.99,high,low,10,name.com,,,21/09/2026 22:59
 34a89f5c-123f-4bd5-825f-dbe973febfb8,gimme.kiwi,available,21.52,21.52,high,low,5,dynadot,,,29/09/2026 14:22
@@ -348,6 +366,7 @@ fc1a2b94-9ce7-44cd-96ff-87a9859ccc08,slant.kiwi,available,31.98,35.68,high,low,5
 8c0f65de-ec7b-42d7-9e05-23eaa33c9029,prefatory.kiwi,available,31.98,35.68,high,medium,9,namecheap,,,09/09/2026 01:35
 76ca902d-21b3-486e-aea5-deb7cb4c649b,ashy.kiwi,available,31.98,35.68,medium,low,4,namecheap,,,07/08/2026 02:04
 5f9bc21d-b806-49a7-ab37-f3937f56fbc0,airfield.kiwi,available,31.98,35.68,high,low,8,namecheap,,,17/09/2026 23:09
+e1bbba56-ca78-4820-b3c2-1260ec4d7292,lucile.kiwi,available,31.98,35.68,high,low,6,namecheap,,,02/10/2026 19:50
 8a197a15-a161-41a1-8ae7-7ceabfab8115,hex.kiwi,available,31.98,35.68,high,medium,3,namecheap,,,21/08/2026 07:35
 6fd3f591-7123-4c93-aa48-cc4cd255bfda,sculptured.kiwi,available,31.98,35.68,high,low,10,namecheap,,,20/08/2026 18:52
 aa6c6c77-18e6-478c-93a5-4464e3b087da,grin.kiwi,available,21.72,21.72,high,low,4,dynadot,,,27/09/2026 23:08
@@ -369,6 +388,7 @@ ab8ce4bd-3612-4d3b-9c40-af1fd5b0c678,great.kiwi,available,31.98,35.68,high,mediu
 e1e013e5-fb23-406e-9aeb-170aa2a17d21,lidless.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,23/08/2026 01:17
 168789cf-f6c6-43a7-8732-c3d10258fa96,calling.kiwi,available,31.98,35.68,high,low,7,namecheap,,,24/09/2026 11:48
 480af22b-a383-46dd-97ea-2b3f75bdcdd0,total.kiwi,available,31.98,35.68,high,medium,5,namecheap,,,21/09/2026 22:55
+fdae5b8b-9411-481b-ac43-b3438340877e,maugham.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,03/10/2026 01:35
 0c916fed-4be5-4f44-b62c-500b70f3dc36,unhinged.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,11/08/2026 01:52
 0d7a4389-ed5c-40e6-8022-00cfc2ea377f,prettier.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,18/09/2026 11:09
 0a15200c-fac0-47b3-b985-d8780cba6555,beagle.kiwi,available,31.98,35.68,high,low,6,namecheap,,,22/09/2026 19:37
@@ -385,14 +405,17 @@ c214712f-e71f-4549-a57f-54c94cba8ea6,parting.kiwi,available,21.52,21.52,high,low
 4418c625-813c-4f88-9712-2bc3169c60c6,apheresis.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,19/09/2026 16:49
 0cf891e4-80a1-415c-b421-02686a615afc,brassy.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,11/08/2026 02:33
 886586f7-765c-4791-a475-67ade5091f0e,georgian.kiwi,available,31.98,35.68,high,low,8,namecheap,,,18/08/2026 22:37
+b373f892-419c-4485-9cff-6c8b4cc96a31,recalling.kiwi,available,31.98,35.68,high,low,9,namecheap,,,02/10/2026 21:33
 e1d8ea4a-f5d0-4c7d-bfb3-cfca9b21e40c,suited.kiwi,available,31.98,35.68,high,low,6,namecheap,,,11/09/2026 01:21
 41227920-dd97-4ed1-8732-a07997233dcb,gentlemen.kiwi,available,31.98,35.68,high,low,9,namecheap,,,25/09/2026 17:34
 b0a2826c-f8cc-4f85-b345-da5d87f350b9,unshared.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,12/09/2026 19:38
 52e8e322-ae32-44b5-ba03-98e3c84c68ed,incurious.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,22/08/2026 02:08
 9ad8d46d-68fe-4763-9e8f-a9bdeb217af3,calvinist.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,11/08/2026 15:24
 a9d43a06-bf78-42c1-bc92-462f89b7d410,ies.kiwi,available,31.98,35.68,medium,low,3,namecheap,,,01/10/2026 16:28
+7aeb56cb-ab67-4d4e-9396-7ed13cba79a0,whitehall.kiwi,available,21.28,21.28,medium,low,9,dynadot,,,02/10/2026 17:09
 064a62f6-5539-452b-9d1a-baa867559a7e,heterodox.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,14/08/2026 12:37
 54ed89c0-0b26-4c8c-9b55-3aad598447d1,insertion.kiwi,available,21.43,21.43,high,low,9,dynadot,,,30/09/2026 01:59
+aae5a99c-057a-4a4f-9023-a3fa7890db1b,vga.kiwi,available,21.28,21.28,high,low,3,dynadot,,,02/10/2026 19:59
 30cac225-40e9-4421-b10d-f59a08675cb2,tenant.kiwi,available,31.98,35.68,high,low,6,namecheap,,,28/09/2026 20:19
 d4125e56-2098-40ca-8b06-fb2a6348d125,ayr.kiwi,available,31.98,35.68,high,low,3,namecheap,,,21/09/2026 10:41
 55abfbb0-435b-474c-aaac-a529bf52aab0,knowable.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,12/08/2026 15:50
@@ -419,6 +442,7 @@ be2ee933-4584-42cf-8b6d-13fccb5f6125,aspic.kiwi,available,31.98,35.68,high,low,5
 76123688-d3fe-4dfe-b75a-be3d22935a00,espouse.kiwi,available,31.98,35.68,high,low,7,namecheap,,,13/09/2026 09:39
 1dd7fec6-456e-480e-a054-beacc1fa9ca3,penniless.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,21/08/2026 00:34
 90f9975f-abe5-48e9-9226-b4c24264a472,potentially.kiwi,available,21.47,21.47,medium,low,11,dynadot,,,28/09/2026 07:08
+a234bd83-1470-4ae0-941b-3920630c151d,bremerton.kiwi,available,21.28,21.28,high,low,9,dynadot,,,02/10/2026 08:13
 d733bf88-402e-4df3-94cd-77f7afaeb6e8,lds.kiwi,available,31.98,35.68,high,low,3,namecheap,,,28/09/2026 08:25
 29924f47-1811-412e-928b-3411ae8847ff,lissom.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,23/08/2026 23:41
 87229fba-02cf-4bf2-94ad-ec919e7ae968,shaikh.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,01/10/2026 23:28
@@ -434,6 +458,7 @@ fc29089b-e907-4641-a173-bc05c628c83a,elba.kiwi,available,31.98,35.68,high,low,4,
 edf7bb26-3c1a-4f07-9d9d-03bef4319421,chop.kiwi,available,31.98,35.68,high,low,4,namecheap,,,29/09/2026 08:58
 c181bcf8-c8c2-4636-9a59-02f7d0b5e62a,bowen.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,25/09/2026 12:42
 64a70c0e-e8f5-404f-9cb5-3575b14d9400,driveway.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,28/09/2026 13:54
+ff35fc0f-b943-480e-ae5c-dfa2bce946f2,purpura.kiwi,available,21.34,21.34,medium,low,7,dynadot,,,03/10/2026 01:46
 21678940-8e86-473b-aeb1-179094ad5478,challenging.kiwi,available,31.98,35.68,high,low,11,namecheap,,,01/10/2026 19:37
 351a62c6-91f1-49f2-abc6-2edbda51ceb6,saddam.kiwi,available,42.99,42.99,medium,low,6,name.com,,,25/09/2026 23:11
 9f6d8380-dd80-4eb8-8224-1f898bac49d8,redstone.kiwi,available,31.98,35.68,high,low,8,namecheap,,,01/10/2026 13:54
@@ -447,13 +472,16 @@ df94fe49-d77d-4a67-92dc-01382dc4df36,lining.kiwi,available,21.47,21.47,high,low,
 18be9156-c5e8-40a5-9e36-ed2c203db194,types.kiwi,available,31.98,35.68,high,low,5,namecheap,,,18/09/2026 16:19
 004529a1-1ffd-4fed-addd-7e141c217ca1,shortfall.kiwi,available,31.98,35.68,high,low,9,namecheap,,,29/09/2026 13:34
 d03a9895-dde9-4e96-ac79-46f37c2918ef,realise.kiwi,available,31.98,35.68,high,low,7,namecheap,,,27/09/2026 16:29
+f0e4070a-41a3-419c-8fc0-c7cb63192954,valerius.kiwi,available,31.98,35.68,high,low,8,namecheap,,,02/10/2026 09:29
 c71adb84-c825-458d-b119-8183a39fd800,orville.kiwi,available,31.98,35.68,high,low,7,namecheap,,,29/09/2026 09:46
 049cb7cb-af77-4152-836d-2eb4a502fd34,marquis.kiwi,available,21.43,21.43,high,low,7,dynadot,,,30/09/2026 17:02
 2c85327d-ff9a-47a9-a47c-648ce1a9dd2e,mississippi.kiwi,available,21.47,21.47,high,low,11,dynadot,,,28/09/2026 03:26
 6095c5f8-23a5-4e4e-8b28-01d58f58d4a6,inexplicit.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,21/08/2026 22:39
 48751571-8830-4b80-897e-758f8e090480,devious.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,14/08/2026 05:10
 f931a626-c6a0-477b-9bc1-31baeefbb037,stepped.kiwi,available,31.98,35.68,high,low,7,namecheap,,,25/09/2026 18:05
+a910be09-0663-4415-bf21-ca56b3de7e16,nep.kiwi,available,21.34,21.34,high,low,3,dynadot,,,03/10/2026 03:17
 68fd650d-d862-447a-a8f8-148ba8ab8c83,ammonite.kiwi,available,42.99,42.99,high,low,8,name.com,,,18/09/2026 22:08
+5f63e181-61e1-4b89-aae4-6186a2c1f353,functor.kiwi,available,31.98,35.68,high,low,7,namecheap,,,02/10/2026 18:10
 7ee07149-29b5-4dfd-b83e-83562ab085a9,basement.kiwi,available,31.98,35.68,high,low,8,namecheap,,,29/09/2026 01:22
 6c955e2e-c805-43ee-8806-bd363238d881,samples.kiwi,available,42.99,42.99,medium,low,7,name.com,,,20/09/2026 18:39
 ab04eb23-51d4-47bf-968c-4aefbf4eccbf,moose.kiwi,available,31.98,35.68,high,low,5,namecheap,,,18/09/2026 03:57
@@ -464,11 +492,13 @@ adbcc9dd-cb93-466a-96dc-bb41fe3b2332,exothermic.kiwi,available,31.98,35.68,mediu
 5b6aeed1-5532-44aa-bd48-12e9bd5e4c80,astarte.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,20/09/2026 14:01
 1dd4819d-a789-467e-b98d-1aa859c5bb96,lifts.kiwi,available,21.52,21.52,medium,low,5,dynadot,,,29/09/2026 05:05
 336c6dde-1ac3-4af4-927f-6400da7fe5e3,diving.kiwi,available,31.98,35.68,high,low,6,namecheap,,,29/09/2026 16:25
+b371cf3c-03b2-4a39-9572-44c9f713ae8a,gorillas.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,02/10/2026 22:55
 577100e6-b438-4a64-98b8-d1ce0b217dfd,mend.kiwi,available,31.98,35.68,high,low,4,namecheap,,,30/09/2026 08:51
 721b009d-de30-410a-8a32-b980a8ad88da,experimenters.kiwi,available,31.98,35.68,medium,low,13,namecheap,,,02/10/2026 03:51
 71ed305d-88ce-46f8-ab3c-d7039fbd9864,lodge.kiwi,available,21.47,21.47,high,low,5,dynadot,,,28/09/2026 23:14
-8e0de8cf-e9d3-4080-be3f-c3b2b10c4567,bears.kiwi,premium,55.59,,high,low,5,name.com,,,
+8e0de8cf-e9d3-4080-be3f-c3b2b10c4567,bears.kiwi,premium,58.5,58.5,high,low,5,namecheap,,,03/10/2026 04:51
 a3546983-d571-4d59-a0b5-cd01a1c9dfe3,portrayal.kiwi,available,31.98,35.68,high,low,9,namecheap,,,01/10/2026 01:43
+c30e9d69-8052-4b45-b5bf-b9bda148ea69,nxt.kiwi,available,31.98,35.68,high,low,3,namecheap,,,02/10/2026 20:47
 17c72bf8-ea21-4387-8536-b3d8cdc9d973,villagers.kiwi,available,21.52,21.52,high,low,9,dynadot,,,29/09/2026 05:33
 da424f6a-7dcc-452f-9193-1da7ed60c0b4,bullock.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,29/09/2026 11:48
 2dd802a1-4500-4943-bda7-901d803ab682,takeoff.kiwi,available,21.43,21.43,medium,low,7,dynadot,,,30/09/2026 05:48
@@ -488,12 +518,14 @@ d0b94f77-31f6-43b4-ac4a-8849c28b4c52,grounded.kiwi,available,31.98,35.68,high,lo
 8fdc31de-db8e-4461-8041-2a5e8315d028,prolate.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,15/08/2026 18:52
 f1afb3f7-ae3e-4d4c-80a1-2184e4cfdcab,ambivalence.kiwi,available,35.68,,high,low,11,namecheap,,,
 c79c45b1-07b5-4bfc-ad81-eba25774c131,olive.kiwi,premium,54.61,,high,low,5,name.com,,,26/09/2026 00:11
+ba578e5f-982b-4f1b-956b-c63098cb6970,crusher.kiwi,available,21.28,21.28,high,low,7,dynadot,,,03/10/2026 00:22
 14dbeda5-20f1-46ee-88e1-67c09d35ae92,wingstem.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,17/09/2026 04:57
 071391ac-639a-4efb-bf9f-fb96e1dbaf48,panty.kiwi,available,31.98,35.68,high,low,5,namecheap,,,09/09/2026 22:42
 68b927f3-4391-4836-8fce-0a75c932421f,proustian.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,09/09/2026 04:22
 ff8aad37-1f50-4b7d-819a-f0ebed5033ac,fortunate.kiwi,available,31.98,35.68,high,low,9,namecheap,,,18/08/2026 12:47
 e74b0b22-894e-497a-94b4-9f3d75a6c3a5,selflessly.kiwi,available,31.98,35.68,high,low,10,namecheap,,,13/09/2026 19:23
 781cc038-8e19-4610-aa6d-7d582642649f,boned.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,10/08/2026 18:34
+b31bd893-7f36-40f4-a771-ad4f61629d30,platz.kiwi,available,21.34,21.34,high,low,5,dynadot,,,03/10/2026 04:51
 2b0ec003-c220-4ff9-940a-7bb7c213cdfa,animating.kiwi,available,21.52,21.52,high,low,9,dynadot,,,29/09/2026 05:09
 10bc234e-85e0-4db8-86e5-d48c79f70b3c,staircase.kiwi,available,21.47,21.47,medium,low,9,dynadot,,,28/09/2026 20:32
 2095c649-c146-4a95-ad4b-562ff109bef7,sperry.kiwi,available,21.47,21.47,medium,low,6,dynadot,,,29/09/2026 00:47
@@ -516,7 +548,7 @@ e9983132-09e8-4511-821b-5b3e945f2259,bombay.kiwi,available,31.98,35.68,high,low,
 5ae19ca5-b27f-4280-9c9d-6809b0b61a0c,diss.kiwi,available,31.98,35.68,medium,low,4,namecheap,,,17/09/2026 14:55
 c306f9f5-1d29-417c-af61-984482ec465f,vicki.kiwi,available,21.52,21.52,medium,low,5,dynadot,,,29/09/2026 04:00
 013230fd-f11f-4ba2-9364-446b1abe50a4,pupil.kiwi,available,21.47,21.47,high,low,5,dynadot,,,28/09/2026 09:33
-cdecde68-33f2-404c-94ff-2897afdec44a,vast.kiwi,available,21.47,21.47,high,low,4,dynadot,,,28/09/2026 08:28
+cdecde68-33f2-404c-94ff-2897afdec44a,vast.kiwi,available,21.28,21.28,high,low,4,dynadot,,,02/10/2026 12:37
 215dbe4a-fb39-40ec-9a42-4d470868f529,teeming.kiwi,available,31.98,35.68,high,low,7,namecheap,,,11/09/2026 10:05
 6776514a-0aa4-4c23-9e0e-a3a0e200d23b,waits.kiwi,available,21.47,21.47,medium,low,5,dynadot,,,28/09/2026 11:43
 8f035e3b-6025-4313-a95d-4a15dd1265b2,haight.kiwi,available,21.28,21.28,high,low,6,dynadot,,,02/10/2026 04:03
@@ -535,6 +567,7 @@ e8da16c2-2422-4f7c-ad42-50ff9291a168,arrangements.kiwi,available,31.98,35.68,med
 f9923134-d02f-452c-9799-803aa95f0a1a,trying.kiwi,available,31.98,35.68,high,low,6,namecheap,,,03/09/2026 15:44
 60272acb-13b7-430f-8432-66c2418848cd,clovers.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,21/09/2026 06:52
 743bd077-b905-4e90-b856-abc2d959aa6b,pavilion.kiwi,available,31.98,35.68,high,low,8,namecheap,,,30/09/2026 18:00
+a6059d0c-8cae-422d-ae3b-95a4dec619cb,hdtv.kiwi,available,31.98,35.68,high,low,4,namecheap,,,02/10/2026 15:39
 1378f17a-d6a0-4da7-afb7-551918797ec8,unreliable.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,11/09/2026 19:06
 fa54c098-ffd0-4469-bf1b-a9547ee6f06e,hushed.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,21/08/2026 15:54
 504224ca-4f23-4870-aeac-47a6c5787c16,dearie.kiwi,available,42.99,42.99,high,low,6,name.com,,,13/08/2026 18:19
@@ -553,7 +586,7 @@ d555b68a-0158-45d9-a0f5-560f854b3c0d,engaged.kiwi,available,31.98,35.68,high,low
 e24bcf5c-5867-436a-857f-1d5cfcbd2466,acromion.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,17/09/2026 03:49
 285c2358-db9d-4917-a10f-2ad2f0045733,backwater.kiwi,available,31.98,35.68,high,low,9,namecheap,,,21/09/2026 16:21
 f09e6d53-0c03-4e33-801f-4e5eb2e0d353,lapse.kiwi,available,21.72,21.72,high,low,5,dynadot,,,27/09/2026 14:20
-f90e8e2d-1d08-4136-96a8-9396d5a9820b,bedhead.kiwi,available,35.68,,medium,low,8,namecheap,,,
+f90e8e2d-1d08-4136-96a8-9396d5a9820b,bedhead.kiwi,available,21.28,21.28,medium,low,8,dynadot,,,02/10/2026 16:33
 5929c843-6337-4325-8017-054a024ed659,embodiment.kiwi,available,31.98,35.68,high,low,10,namecheap,,,21/09/2026 08:48
 f87ce4ac-1614-448a-afeb-f3bc149cfc0f,homeward.kiwi,available,31.98,35.68,high,low,8,namecheap,,,21/08/2026 11:22
 180f1dee-dba5-4d06-a7ce-ad53835c1b42,scandent.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,09/09/2026 22:32
@@ -561,16 +594,19 @@ b67feaac-5faf-428c-a257-f59051e84f82,toffee.kiwi,available,31.98,35.68,high,low,
 9d214d13-27cb-4d2a-899a-7075a245d8a4,boric.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,10/08/2026 19:48
 4feebb8a-1135-4644-96bd-0d1e6675d8fe,sulphur.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,20/09/2026 22:29
 372112a4-1419-4d55-8421-b8054642bce9,comforting.kiwi,available,31.98,35.68,high,low,10,namecheap,,,12/08/2026 03:43
+46af4f04-e5bc-49f4-b5ae-0f2c42f7b302,radnor.kiwi,available,21.34,21.34,high,low,6,dynadot,,,03/10/2026 03:44
 77813d2a-1411-4366-961e-ecd8b7e5477b,trustworthy.kiwi,available,31.98,35.68,high,low,11,namecheap,,,30/09/2026 05:50
 f3e6c91a-4173-4195-9463-f150d2d37670,unpublished.kiwi,available,21.28,21.28,medium,low,11,dynadot,,,02/10/2026 01:35
 967f2ad7-0012-4858-a563-be55a8424aab,waterless.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,06/08/2026 19:03
+ec9715fa-7603-429f-a5bf-0b5da87a0220,memorandum.kiwi,available,21.34,21.34,high,low,10,dynadot,,,03/10/2026 01:35
 9833fa71-be27-440a-a8ae-75f66b54d5d6,propose.kiwi,available,21.43,21.43,high,low,7,dynadot,,,30/09/2026 08:54
 6f2a4f9b-501d-4cb6-899a-3e4ba80fb357,maltese.kiwi,available,31.98,35.68,high,low,7,namecheap,,,24/08/2026 14:15
 1591483b-6264-4f02-89ef-81398b65516a,gjo.kiwi,available,31.98,35.68,medium,low,4,namecheap,,,17/09/2026 05:37
 582793f7-1cbd-4e43-b290-63624265a4f4,clown.kiwi,available,31.98,35.68,high,low,5,namecheap,,,22/09/2026 06:35
+006af2ac-d558-40b9-9790-427f6a6762a6,sharpen.kiwi,available,21.34,21.34,high,low,7,dynadot,,,03/10/2026 02:36
 cccbbf8d-dbe0-4c5f-a190-e9c5bf2a4b3f,slovenian.kiwi,available,31.98,35.68,high,low,9,namecheap,,,10/09/2026 11:19
 23f4787c-5cb9-4286-b679-658329a9747c,rca.kiwi,available,31.98,35.68,high,medium,3,namecheap,,,25/09/2026 14:08
-c52d588a-c747-4f97-b8fd-8d36c18e691f,keys.kiwi,available,35.68,,high,medium,4,namecheap,,,
+c52d588a-c747-4f97-b8fd-8d36c18e691f,keys.kiwi,available,31.98,35.68,high,medium,4,namecheap,,,02/10/2026 13:36
 a79aa019-a29a-4b5d-9bd8-02a0f8d625d4,defendable.kiwi,available,31.98,35.68,high,low,10,namecheap,,,13/08/2026 23:09
 9f026863-be08-4656-af35-d6e0676d47b6,mildness.kiwi,available,31.98,35.68,high,low,8,namecheap,,,24/09/2026 15:30
 589b1919-2844-4146-a06c-e78b4c3eae86,betrothed.kiwi,available,31.98,35.68,high,low,9,namecheap,,,09/08/2026 18:07
@@ -614,10 +650,12 @@ c442db20-8c78-42be-8494-71172b92e2e1,nevis.kiwi,available,31.98,35.68,high,low,5
 065de465-fd0a-4f3c-822b-48e67e3e5c30,megalithic.kiwi,available,31.98,35.68,high,low,10,namecheap,,,24/08/2026 19:24
 90618ea2-9c98-461d-a591-b3402ed2716f,armoracia.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,20/09/2026 07:23
 c8cacfdb-8fd4-4a84-b191-e36d25e04d04,posting.kiwi,available,31.98,35.68,high,low,7,namecheap,,,30/09/2026 06:59
+dd6eb4c0-c22a-4d3f-b2a2-ade78fca9efc,storytelling.kiwi,available,21.28,21.28,high,low,12,dynadot,,,02/10/2026 11:52
 a31a290e-65d9-483c-aa60-384bb62605b5,juridical.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,22/08/2026 14:40
 f4c6e094-17c9-4d45-ae9e-dc00594e9b1b,bhakti.kiwi,available,31.98,35.68,high,low,6,namecheap,,,23/09/2026 12:33
 c8e3ba2f-b718-4fd7-9de9-400137b43f55,oddish.kiwi,available,31.98,35.68,low,low,6,namecheap,,,04/09/2026 00:50
 ff8a0c42-14fa-43ba-89a3-928a2112279e,imprudent.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,21/08/2026 23:23
+f7a82841-9891-41e6-b2e7-857234ce639b,simmonds.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,02/10/2026 10:51
 a00de1ea-e7fa-47d3-be62-31e404e8bfe4,babes.kiwi,available,31.98,35.68,high,low,5,namecheap,,,01/10/2026 16:19
 cf778558-d824-4809-a466-9e298616d724,strap.kiwi,available,31.98,35.68,high,low,5,namecheap,,,28/09/2026 10:12
 c978d05c-d529-4456-82e2-961f323e5fd1,diversion.kiwi,available,31.98,35.68,high,low,9,namecheap,,,24/09/2026 23:18
@@ -636,11 +674,13 @@ db7221fc-f078-4753-8c0b-89617f1c2458,sartre.kiwi,available,31.98,35.68,high,low,
 48edb3c4-6ab2-46ea-9891-9c8a89b3ccda,presents.kiwi,premium,61.1,61.1,high,low,8,namecheap,,,08/09/2026 04:30
 60d582d8-974d-496a-a712-f694851d6f14,gallons.kiwi,available,31.98,35.68,low,low,7,namecheap,,,28/09/2026 23:47
 29d82094-9824-47f1-b972-71a609015e36,sexist.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,10/09/2026 05:14
+3baee6cc-7139-4a94-8e38-8e4a2634ffb6,dunk.kiwi,available,31.98,35.68,high,low,4,namecheap,,,02/10/2026 14:51
 486deff7-b425-48fb-8afb-3ec0ef39394f,cosmetics.kiwi,available,21.52,21.52,high,low,9,dynadot,,,29/09/2026 04:53
 1229f231-eff0-41c2-9261-23d6ed121a19,plasmas.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,30/09/2026 15:59
 d201a535-226f-45fa-a6c1-48d140d0e6e4,blueish.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,22/09/2026 22:51
 4d86899a-0868-4aa9-9001-bc5a384948fc,destinations.kiwi,premium,41.6,41.6,high,low,12,namecheap,,,20/09/2026 11:44
 23e3a5e8-3a14-4426-9826-c2228d165211,testament.kiwi,available,31.98,35.68,high,low,9,namecheap,,,28/09/2026 20:37
+15888359-a45d-4324-b5b2-cc8a171d9e09,tavares.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,02/10/2026 20:29
 fa7f1f0f-5de7-4ac7-9f2a-4df1cacae4f1,shitlist.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,24/09/2026 00:19
 d07c2d91-ccf2-48fe-b0d9-846cb3a5b1d5,touches.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,28/09/2026 04:39
 d3d65a99-61b0-44aa-8acc-a15e1929f932,extermination.kiwi,available,31.98,35.68,medium,low,13,namecheap,,,29/09/2026 23:26
@@ -650,9 +690,11 @@ d3d65a99-61b0-44aa-8acc-a15e1929f932,extermination.kiwi,available,31.98,35.68,me
 a80994d2-6432-4720-bb3e-bbe042d037b1,arjuna.kiwi,available,31.98,35.68,high,low,6,namecheap,,,20/09/2026 06:08
 3462e0fa-dd91-4e06-955b-f92f220c0978,attributions.kiwi,available,21.41,21.41,medium,low,12,dynadot,,,01/10/2026 17:31
 ed4dd0e8-32f0-4498-a5d2-ab89434f897d,musicals.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,01/10/2026 17:51
+00b10db4-e4a9-4c77-8b4e-44019af29353,prefect.kiwi,available,21.28,21.28,high,low,7,dynadot,,,02/10/2026 06:08
 831a9534-268a-45e5-8eb2-dd40ec0dedf9,swanky.kiwi,available,31.98,35.68,high,low,6,namecheap,,,11/09/2026 05:15
 86e5491e-2f75-46e9-a6d1-102518a4eec3,testator.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,11/09/2026 12:02
 2a60bba5-44f8-4c9b-a536-423769a0a5e5,biography.kiwi,available,31.98,35.68,high,low,9,namecheap,,,23/09/2026 18:09
+da2b7124-c819-4fee-b200-7114def1a610,formulas.kiwi,available,21.28,21.28,medium,low,8,dynadot,,,02/10/2026 12:05
 ab08e69b-9ec1-40a6-8fc6-9c0b94a26da5,syllable.kiwi,available,21.52,21.52,high,low,8,dynadot,,,29/09/2026 20:27
 bbce7422-82ce-4fb5-b1b6-a9cf8bfa529f,toilet.kiwi,available,31.98,35.68,high,low,6,namecheap,,,27/09/2026 04:48
 75546c34-b2c3-426a-9bf3-038681ca1a59,ventral.kiwi,available,31.98,35.68,high,low,7,namecheap,,,
@@ -698,7 +740,7 @@ adebc872-cc9d-467c-8e64-26f03a4ddf55,sociological.kiwi,available,21.28,21.28,hig
 20b57b05-83d8-45f6-a253-179bedbce0fd,werner.kiwi,available,31.98,35.68,high,low,6,namecheap,,,25/09/2026 21:47
 bb82a8ac-ddf3-4d0a-bced-c73ea5669c15,region.kiwi,premium,62.04,62.04,high,low,6,dynadot,,,30/09/2026 09:23
 566fe8ae-da95-4135-a3ff-f38c4e37b93d,bedspread.kiwi,available,31.98,35.68,high,low,9,namecheap,,,22/09/2026 22:52
-c2b76853-3017-4764-8d82-92dc1e8adbc9,idk.kiwi,available,35.68,,medium,low,3,namecheap,,,
+c2b76853-3017-4764-8d82-92dc1e8adbc9,idk.kiwi,available,31.98,35.68,medium,low,3,namecheap,,,03/10/2026 02:35
 a64aa193-d864-4a1e-a896-18ca01121c54,priesthood.kiwi,available,31.98,35.68,high,low,10,namecheap,,,30/09/2026 10:54
 a1510ede-1b9b-4fcf-aefc-e3e27f36c221,fdic.kiwi,available,31.98,35.68,medium,low,4,namecheap,,,30/09/2026 01:36
 1e9642f0-b83b-4fe8-b563-41a0ba6b8a79,jurisdiction.kiwi,available,31.98,35.68,high,low,12,namecheap,,,28/09/2026 22:34
@@ -712,14 +754,17 @@ bcf0581f-36c3-49d1-a990-9ff61d18a01e,homosexuality.kiwi,available,21.52,21.52,hi
 74262a6d-c69d-4cd1-8c9f-90af7b7f440f,colouring.kiwi,available,31.98,35.68,high,low,9,namecheap,,,12/08/2026 17:33
 fd7f30c7-fdb1-433a-bba2-d1fc00e338e4,soundproof.kiwi,available,31.98,35.68,high,medium,10,namecheap,,,10/09/2026 14:44
 cfda9d1b-b813-4509-b2db-d5ca7d28f192,initiate.kiwi,available,31.98,35.68,high,low,8,namecheap,,,17/08/2026 09:35
+d48bf34c-31b1-43d0-886d-864d49afa4aa,counterparts.kiwi,available,21.28,21.28,low,low,12,dynadot,,,02/10/2026 13:55
 5cb9afd0-2f30-41b3-a5e1-829e85815632,alarm.kiwi,premium,73.08,73.08,high,low,5,name.com,,,
-4e1e8c91-3cfb-4e95-a691-112cda66a77d,animals.kiwi,premium,74.39,,high,low,7,name.com,,,
+4e1e8c91-3cfb-4e95-a691-112cda66a77d,animals.kiwi,premium,78,78,high,low,7,namecheap,,,02/10/2026 16:42
 56a4fff7-e8a7-4fbc-9ab7-073c8da0f19c,fossil.kiwi,available,31.98,35.68,high,medium,6,namecheap,,,18/08/2026 13:05
 0dcf06d3-30bb-4639-bcc2-19bad8b7f9c4,boffo.kiwi,available,31.98,35.68,high,low,5,namecheap,,,10/08/2026 16:57
 149a767a-3fc5-4f43-9af3-dcb69b7f3cb9,mime.kiwi,available,31.98,35.68,high,low,4,namecheap,,,24/08/2026 23:33
 c5f8493e-80c5-4b55-beff-153933f7b7bb,syncretic.kiwi,available,31.98,35.68,high,low,9,namecheap,,,11/09/2026 06:21
 ddd8632e-d371-400e-815a-91afc44b2132,westwards.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,13/09/2026 11:02
 0f6dc163-463a-4959-8db3-c4b6430b183d,bassist.kiwi,available,31.98,35.68,high,low,7,namecheap,,,22/09/2026 12:26
+275a3908-c806-4252-a4a5-941507bc33f2,lug.kiwi,available,31.98,35.68,high,low,3,namecheap,,,02/10/2026 15:59
+10a1adb2-b70f-4a4d-80c7-78f34b7f35d7,cheapest.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,02/10/2026 12:14
 dc41d2fc-98e0-4d76-8542-3b6fbfaa06e3,desiccated.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,14/08/2026 03:33
 dda3e641-5681-4b8c-9cd9-c4df880238ea,subsequent.kiwi,available,31.98,35.68,high,low,10,namecheap,,,11/09/2026 00:44
 a2dfde26-2f07-4bff-b441-4982ec60988d,ventures.kiwi,available,31.98,35.68,high,low,8,namecheap,,,01/10/2026 17:59
@@ -740,12 +785,14 @@ da9a4582-7473-4e50-b0eb-5ba29be3960a,curium.kiwi,available,31.98,35.68,medium,lo
 1ff1ddc0-9bdd-414b-a1bc-fb34c0818c36,reduced.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,13/08/2026 22:10
 23c6b72f-7b49-4d99-a173-4b382dc2eb1e,protected.kiwi,available,31.98,35.68,high,low,9,namecheap,,,27/09/2026 07:42
 cfeabf04-5466-42b2-8911-cec7c9cf9859,latina.kiwi,premium,81.9,81.9,high,medium,6,namecheap,,,28/09/2026 11:11
+ef6cc6af-8465-410c-a2db-db684b074ff0,oyo.kiwi,available,31.98,35.68,high,low,3,namecheap,,,03/10/2026 04:24
 2e425fc0-7fc1-4bbd-a3f5-b1a5debb5ea1,inductive.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,22/08/2026 03:29
 864753ea-2e63-4e93-ad2b-740de2d34b22,med.kiwi,available,31.98,35.68,high,medium,3,namecheap,,,01/10/2026 20:29
 af3eadf9-2937-4518-b2a9-d6a6cec6c7e1,gamble.kiwi,premium,202.8,202.8,high,low,6,namecheap,,,17/09/2026 10:37
 2eb69fdb-36c1-44db-a8d1-d010086a6a20,nanjing.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,28/09/2026 10:29
 b42059d3-8f0e-4d48-8aec-a336509fde64,angioma.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,19/09/2026 06:14
 6acd9ee0-2df0-487f-b945-1cc394754f3b,stylized.kiwi,available,31.98,35.68,high,low,8,namecheap,,,08/09/2026 05:30
+4e141e38-aa09-4ad7-a820-07a924d56839,commuting.kiwi,available,31.98,35.68,high,low,9,namecheap,,,03/10/2026 00:04
 e837f543-2962-47b9-955c-265f4be7c94f,birchbark.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,23/09/2026 19:23
 8f84b0e8-fb2d-4701-b271-2be4d7b5d51a,stowe.kiwi,available,21.47,21.47,medium,low,5,dynadot,,,28/09/2026 14:23
 e00985ac-7a8c-4896-9b74-136885e41d7a,encodes.kiwi,available,21.47,21.47,low,low,7,dynadot,,,28/09/2026 17:50
@@ -760,7 +807,9 @@ afb51134-7140-4288-a4c2-378057ec0540,blemish.kiwi,available,31.98,35.68,medium,l
 c4f95dc1-ba7e-4b2d-81fe-b2c584370139,fourscore.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,
 19daac23-19a7-41f2-a0b7-d71198460cfd,mosby.kiwi,available,21.43,21.43,medium,low,5,dynadot,,,30/09/2026 05:30
 e1d28168-916d-4663-99ba-7afdf83d28b6,clemens.kiwi,available,31.98,35.68,high,low,7,namecheap,,,27/09/2026 12:32
+1ff8c23b-a71d-452e-a992-5618efabc74e,bloomingdale.kiwi,available,31.98,35.68,high,low,12,namecheap,,,03/10/2026 04:26
 e68c7e4d-2c79-49da-a4b5-8cec8c78cce4,authorship.kiwi,available,31.98,35.68,high,low,10,namecheap,,,21/09/2026 05:26
+d1749c6b-93ff-4689-bd0b-889ff01bd9da,greig.kiwi,available,21.28,21.28,high,low,5,dynadot,,,02/10/2026 20:02
 c73d46f2-5068-45d1-927c-0e5c2e9485da,humbled.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,21/08/2026 15:00
 91bdc6b5-62c8-405b-9513-dfda1723fec4,loopy.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,06/08/2026 21:22
 b0f972e3-53fa-41fa-bf32-909f83f9c0d9,moistness.kiwi,available,42.99,42.99,medium,low,9,name.com,,,13/08/2026 16:47
@@ -774,7 +823,9 @@ b39c2fa3-6637-4408-a1c5-3657d201f973,broderick.kiwi,available,31.98,35.68,high,l
 e7e64470-639b-4fe2-a408-2cc2eee386fd,offprint.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,10/09/2026 03:57
 2b214481-8f77-4fe4-95a4-5b095e75b185,noam.kiwi,available,21.41,21.41,high,low,4,dynadot,,,02/10/2026 00:46
 672a4f39-b6c8-4fc2-8bb6-644601fbcd90,tailless.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,05/08/2026 21:33
+d08263f7-e221-443d-b014-51e80c48e460,choctaw.kiwi,available,31.98,35.68,high,low,7,namecheap,,,02/10/2026 23:54
 5bf893f7-f373-4961-b6c9-e684bb9f3b13,staged.kiwi,available,31.98,35.68,high,low,6,namecheap,,,10/09/2026 18:02
+4ef623d7-74ff-4f14-aa40-660dc3987421,paco.kiwi,available,31.98,35.68,high,low,4,namecheap,,,02/10/2026 19:27
 3cd56b0d-f9d6-48df-b683-d152ce3a359e,shoes.kiwi,premium,62.04,62.04,high,low,5,dynadot,,,30/09/2026 11:10
 28324b32-b9d8-459d-9fec-55592c28e6d3,kee.kiwi,available,21.52,21.52,medium,low,3,dynadot,,,30/09/2026 00:37
 5c319fc3-e6c6-48ff-8f07-3a105982fa35,keene.kiwi,available,21.47,21.47,high,low,5,dynadot,,,28/09/2026 03:36
@@ -784,7 +835,7 @@ fa656228-ac51-40e8-bc7c-021b448cf769,cemeteries.kiwi,available,21.43,21.43,mediu
 c577c5e9-a5f0-4a9f-9687-b973a11724b1,judd.kiwi,available,31.98,35.68,medium,low,4,namecheap,,,27/09/2026 07:52
 d37aec8b-5e74-47e2-acde-9a3334ccaa68,misfortune.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,21/09/2026 16:43
 226de477-69f2-48f1-ae9b-d085dc94b406,labeled.kiwi,available,31.98,35.68,high,low,7,namecheap,,,22/08/2026 17:13
-23284a15-c1c0-47fb-b96c-1195c4ed3c24,wartime.kiwi,available,31.98,35.68,high,low,7,namecheap,,,30/09/2026 11:19
+23284a15-c1c0-47fb-b96c-1195c4ed3c24,wartime.kiwi,available,21.28,21.28,medium,low,7,dynadot,,,02/10/2026 21:07
 9823150a-27ce-45d0-a349-703327eba930,tactual.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,21/08/2026 00:04
 68fdd6bb-5754-4ca1-bf63-f5e80f5b1eb8,mistakes.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,16/09/2026 10:20
 4c1d85fb-9962-48b8-91a1-33ae619f5092,solidus.kiwi,available,42.99,42.99,high,low,7,name.com,,,23/09/2026 12:18
@@ -795,7 +846,7 @@ c723aa69-8888-480e-a4ff-188cda978041,malayalam.kiwi,available,31.98,35.68,high,l
 a51a7d69-1021-41ab-aceb-8a12c9216c23,dahna.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,19/09/2026 23:21
 4ef52531-22cd-46d4-9160-f6fd765dc1ef,damning.kiwi,available,42.99,42.99,medium,low,7,name.com,,,13/08/2026 16:33
 41fad18e-afa4-4e71-91a6-ad5ed3627881,oak.kiwi,available,21.43,21.43,high,low,3,dynadot,,,30/09/2026 05:55
-175d83d7-d478-4295-aca0-50c2567ea04d,dealership.kiwi,available,31.98,35.68,high,low,10,namecheap,,,29/09/2026 06:18
+175d83d7-d478-4295-aca0-50c2567ea04d,dealership.kiwi,available,21.28,21.28,high,low,10,dynadot,,,02/10/2026 14:20
 cac14a15-57e8-4418-b65b-50bbcb7537c5,predicted.kiwi,available,21.47,21.47,medium,low,9,dynadot,,,28/09/2026 23:02
 83061f64-787f-4890-bd79-8b3b94013bcf,concise.kiwi,available,31.98,35.68,high,low,7,namecheap,,,23/09/2026 19:03
 8317d6e2-0941-4dc2-9f31-1cbdb21ea80c,amusing.kiwi,available,31.98,35.68,high,low,7,namecheap,,,
@@ -856,7 +907,9 @@ acb90d4c-ecfc-4e38-9017-91f919ce0329,isolation.kiwi,available,31.98,35.68,high,l
 f5bae94c-bfef-4fbd-8576-634c259d62be,square.kiwi,available,31.98,35.68,high,medium,6,namecheap,,,19/09/2026 16:04
 b60b137a-8d81-417e-95ac-d34286e21efe,erst.kiwi,available,31.98,35.68,high,low,4,namecheap,,,17/08/2026 13:07
 96027394-8683-4558-9e70-ac213c60b044,cashed.kiwi,available,31.98,35.68,high,low,6,namecheap,,,11/08/2026 20:15
+5cc5e07e-dc19-4aef-8809-89e2342a2274,usac.kiwi,available,31.98,35.68,medium,low,4,namecheap,,,02/10/2026 08:47
 495ef04d-006b-46ed-862c-4f91a155833b,resorts.kiwi,premium,58.5,58.5,medium,low,7,namecheap,,,02/10/2026 03:30
+4bf4bc67-c667-42b2-85a1-c5a11e174cd7,dagestan.kiwi,available,21.28,21.28,high,low,8,dynadot,,,02/10/2026 08:53
 974ee602-6b8a-4982-802f-f955cdf52e25,terbium.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,20/09/2026 23:28
 a379c69c-a04d-4830-93f1-335f3212dce0,stael.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,22/09/2026 07:38
 fb298968-0414-4134-aaa7-a260b8fceb1b,sensors.kiwi,available,21.47,21.47,medium,low,7,dynadot,,,28/09/2026 09:09
@@ -901,15 +954,18 @@ ecea457c-1a03-4b69-bf45-c247afb41652,blissful.kiwi,available,31.98,35.68,high,lo
 b5bc052f-6a65-4f9f-9df9-9deefc8650c2,armilla.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,20/09/2026 07:02
 c0588c26-b4f8-477c-b1e9-2ae5d1c9217f,participant.kiwi,available,21.43,21.43,high,low,11,dynadot,,,01/10/2026 00:28
 ece3ba06-940f-4f52-9435-f471cb492b05,dvorak.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,19/09/2026 15:32
+060901d6-4fd1-4afd-9b2c-8c5a6a3c3ab5,gulfport.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,02/10/2026 21:01
 0b5a614b-02dd-4a00-a77b-38756cc6a281,denies.kiwi,available,31.98,35.68,low,low,6,namecheap,,,29/09/2026 15:56
-203c8834-0f07-47d4-b933-903d5efffb5e,midterm.kiwi,available,31.98,35.68,high,low,7,namecheap,,,01/10/2026 20:32
+203c8834-0f07-47d4-b933-903d5efffb5e,midterm.kiwi,available,21.28,21.28,high,low,7,dynadot,,,02/10/2026 21:44
 1cf6029e-a268-42eb-8c76-b994e75988a5,aimless.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,
 7d69a3c8-99a6-46f5-93b3-5a5aca21ebac,thor.kiwi,premium,46.71,46.71,high,medium,4,dynadot,,,29/09/2026 08:13
 bf2f4d63-8c73-41cb-9ce8-05c65ebb990a,flirting.kiwi,available,21.52,21.52,high,low,8,dynadot,,,29/09/2026 06:25
 872203cb-f1bf-4c63-a873-745f7da6b68d,desultory.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,14/08/2026 04:36
+6e7e296d-870b-4a64-be8e-f2e6e04338fc,translocation.kiwi,available,21.28,21.28,medium,low,13,dynadot,,,02/10/2026 11:29
 055ee11b-54d1-4538-a634-1ffa19b5aab6,capitalist.kiwi,available,31.98,35.68,high,low,10,namecheap,,,11/08/2026 17:55
 f4d15d6d-6127-4cc4-b8cc-0b015cee10ad,debauch.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,13/08/2026 02:20
 97809629-56f2-4b7d-82f4-4314386d127b,drink.kiwi,available,31.98,35.68,high,low,5,namecheap,,,01/10/2026 16:02
+93cbb72a-94d4-41ca-a9ef-993367f31492,dravidian.kiwi,available,21.28,21.28,high,low,9,dynadot,,,02/10/2026 14:52
 2276184f-3884-42e8-a9f0-8061e8e4c5d5,unconfined.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,12/09/2026 06:03
 3e9debe8-8b86-4a49-ada4-91b6c557b92b,pleasures.kiwi,available,21.52,21.52,medium,low,9,dynadot,,,29/09/2026 16:55
 4c3492ff-1997-4560-93e4-c8d5d6806bdb,divert.kiwi,available,31.98,35.68,high,low,6,namecheap,,,24/09/2026 07:57
@@ -930,6 +986,8 @@ e3ff8004-9300-46d3-87a6-c8117b5585c1,ternion.kiwi,available,31.98,35.68,medium,l
 3e385975-8c55-4bec-b66e-e7401be0a998,transmissions.kiwi,available,31.98,35.68,medium,low,13,namecheap,,,29/09/2026 17:50
 857b60d2-2c17-4881-bd43-0d0dbdcb3e9e,october.kiwi,available,21.47,21.47,high,low,7,dynadot,,,28/09/2026 02:51
 c29f6d7f-69d3-40f3-be03-ccca9390d607,illness.kiwi,available,31.98,35.68,high,low,7,namecheap,,,29/09/2026 23:34
+3c5dead9-8df7-473b-82f4-82b9796e1a0f,motif.kiwi,available,21.28,21.28,high,low,5,dynadot,,,02/10/2026 16:08
+b240b510-48cd-4305-8117-fa00ff128e63,turkeys.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,02/10/2026 12:41
 8f4ff158-6250-4e4f-a431-cc554e218331,assize.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,20/09/2026 16:30
 a4290a7b-c335-404e-93e9-eda801dc08f0,liner.kiwi,available,39.99,39.99,high,low,5,godaddy,,,30/09/2026 02:08
 17764bc6-4711-48af-90ae-64b2da061ebb,unhampered.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,12/09/2026 11:51
@@ -941,61 +999,3 @@ c681da9e-98ee-41c6-a0d9-d7c7e0438fde,implanted.kiwi,available,31.98,35.68,medium
 6948b143-bdb0-4123-9132-17d8ec7e9fdb,smarter.kiwi,available,31.98,35.68,high,low,7,namecheap,,,29/09/2026 10:30
 38ac74ff-7048-4072-ae6d-776c9d66d16d,catch.kiwi,available,21.47,21.47,high,low,5,dynadot,,,28/09/2026 22:15
 d00b6f7f-ee77-4f15-852d-b6ac47f4badd,unavailable.kiwi,available,21.52,21.52,medium,low,11,dynadot,,,29/09/2026 03:22
-5f220776-41ab-40eb-a5d1-a3f903cf6c4b,leucine.kiwi,available,31.98,35.68,high,low,7,namecheap,,,01/10/2026 20:19
-5a603ad2-81ed-4a74-a681-d6aba643850d,begging.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,23/09/2026 02:16
-119b32ff-603e-4093-978f-19a0d3cb776b,attentive.kiwi,available,31.98,35.68,high,low,9,namecheap,,,22/09/2026 11:22
-cecdba57-0ee5-4174-9e61-cb1500f69cc9,swash.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,11/08/2026 01:05
-905c0dc6-c454-4604-a72a-9ba310f9ad87,predictive.kiwi,available,31.98,35.68,high,medium,10,namecheap,,,09/09/2026 01:25
-8f3ece49-3760-4e26-9d24-8dc3c5588652,seating.kiwi,available,31.98,35.68,high,low,7,namecheap,,,29/09/2026 02:06
-0522902b-bf24-42cc-8101-2acebeb47d29,keep.kiwi,premium,155.72,155.72,high,low,4,dynadot,,,29/09/2026 04:03
-8d22f86d-e420-4263-ad07-a1e933a50a80,cheltenham.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,28/09/2026 12:18
-f041bfe0-1677-486b-8a89-db0bbb51137a,hairs.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,28/09/2026 08:42
-cd2ccffc-b799-4cac-b0cf-110e6dd8b74e,nitid.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,
-2f130005-c7f9-461f-ab5b-10dcbf7d5bbd,formed.kiwi,available,31.98,35.68,high,low,6,namecheap,,,18/08/2026 12:09
-20d1096d-af2a-42d0-8136-ba51fe7d3a10,promiscuous.kiwi,available,31.98,35.68,medium,low,11,namecheap,,,01/10/2026 22:33
-b797d9ae-889e-4e08-9650-49ffc2694124,merciful.kiwi,available,31.98,35.68,high,low,8,namecheap,,,24/08/2026 20:34
-fbaf9d28-5a8a-4ba3-bee4-bbba5d59b16c,bureaucracy.kiwi,available,21.41,21.41,high,low,11,dynadot,,,01/10/2026 13:02
-868b2ab2-5b44-47e5-a47a-b94c5f8e1c95,salmagundi.kiwi,available,31.98,35.68,high,low,10,namecheap,,,25/08/2026 08:22
-33e18467-fb7c-459f-ba42-752bf2bf6d7e,asur.kiwi,available,31.98,35.68,medium,low,4,namecheap,,,20/09/2026 16:43
-dd7df912-050c-4544-9a0e-78d97ddb542d,welcoming.kiwi,available,31.98,35.68,high,low,9,namecheap,,,13/09/2026 10:14
-ddb851ad-8d5d-4281-a57b-5127be4b3921,askant.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,07/08/2026 03:05
-15ad340f-79d1-49a2-82bc-2a816b030c3a,despot.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,21/09/2026 06:11
-04f470be-91dc-4203-832a-b0d6ab2af144,pearson.kiwi,available,31.98,35.68,high,medium,7,namecheap,,,25/09/2026 17:36
-50787be4-6ecd-4c23-a8ce-8198dfbc5564,meeting.kiwi,premium,202.8,202.8,high,low,7,namecheap,,,28/09/2026 07:59
-0bd11e93-14d9-4445-8043-265acfa1e487,view.kiwi,available,21.52,21.52,high,medium,4,dynadot,,,29/09/2026 18:48
-0f916ead-3444-4b2e-9a46-7904c2359f03,spastic.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,13/08/2026 00:06
-f26ed2c5-5775-4e1d-81f5-2bf1d61d47bc,shoddy.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,12/08/2026 03:27
-8fe331a1-41da-4bf8-b42e-e0424c511649,companion.kiwi,available,31.98,35.68,high,low,9,namecheap,,,24/09/2026 16:40
-62080e8b-5a57-43a3-bf1b-0d5295029ced,foyer.kiwi,available,31.98,35.68,high,low,5,namecheap,,,19/09/2026 12:45
-c757db5d-98aa-4347-87f7-0ac0352211c2,reentrant.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,09/09/2026 10:51
-b7e84cff-72c0-4ec5-a5a7-de54dde2aade,lieutenants.kiwi,available,21.41,21.41,low,low,11,dynadot,,,01/10/2026 17:56
-09c527a1-0bc6-4c45-ba19-8e67c5e3b0eb,maitland.kiwi,available,39.99,39.99,medium,low,8,godaddy,,,28/09/2026 01:57
-12e2be43-234f-4d8d-9558-590d1a0d81e2,isosceles.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,22/08/2026 11:16
-d4eaea95-f44a-4fd2-bd51-51fcdce892fc,prole.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,09/09/2026 03:01
-0b3f180c-56be-42f3-b9a9-365a3bb8afb2,predict.kiwi,available,31.98,35.68,high,medium,7,namecheap,,,21/09/2026 03:41
-a14119ae-dbdb-471a-b044-656e83ddeb9e,aba.kiwi,premium,202.8,202.8,high,low,3,namecheap,,,16/09/2026 13:42
-bc4231bf-3b9a-476a-96f3-b7f636ceb069,oviedo.kiwi,available,31.98,35.68,high,low,6,namecheap,,,30/09/2026 10:41
-ff6dc39e-70f9-4c42-99cd-89bd9500171b,rises.kiwi,available,31.98,35.68,low,low,5,namecheap,,,28/09/2026 13:01
-37760c49-dd11-48b7-8ed3-7ba918149aeb,meshes.kiwi,available,31.98,35.68,low,low,6,namecheap,,,01/10/2026 18:22
-919d9eba-a460-4839-a4b8-b4ee51166d08,breast.kiwi,available,31.98,35.68,high,low,6,namecheap,,,24/09/2026 08:29
-f23c5207-04a4-4c30-9a2a-e66e82911edd,olympics.kiwi,available,31.98,35.68,high,low,8,namecheap,,,30/09/2026 06:06
-2f23defb-aecd-4e1e-a2bf-f24f83c3eba9,elijah.kiwi,available,21.52,21.52,high,low,6,dynadot,,,29/09/2026 12:10
-023a1688-07ad-4d20-a621-8566348fa113,crisscross.kiwi,available,31.98,35.68,high,low,10,namecheap,,,13/08/2026 07:25
-06dfa378-a47f-4d31-9a89-bb1f66bcd678,seasonal.kiwi,available,31.98,35.68,high,low,8,namecheap,,,10/09/2026 00:58
-17afe20c-b01b-4ac7-80b6-e0763e1b7def,twoscore.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,
-ffb2f381-2e16-47f9-b388-bfa20bacda21,equanimity.kiwi,available,31.98,35.68,high,low,10,namecheap,,,11/08/2026 14:58
-c437a96d-20b6-41c5-9d22-e076cf439caa,tres.kiwi,available,21.41,21.41,high,low,4,dynadot,,,01/10/2026 22:18
-b7503d65-e09c-43cd-bc13-aca3e3e55e80,elderly.kiwi,available,42.99,42.99,high,low,7,name.com,,,21/09/2026 22:30
-cb044a38-da48-45d8-a840-c4c7c5ebab0f,compilation.kiwi,available,35.68,,high,low,11,namecheap,,,
-2f32dd6c-fd20-4ef4-b677-d4c1c744168f,exploding.kiwi,available,21.43,21.43,high,low,9,dynadot,,,30/09/2026 04:01
-d26a1c5a-aaba-4fc5-a542-45e7bdd33bac,ims.kiwi,available,31.98,35.68,high,low,3,namecheap,,,30/09/2026 06:44
-cf21b0ea-7a41-4031-8262-56faf7886a92,dampness.kiwi,available,42.99,42.99,medium,low,8,name.com,,,13/08/2026 16:45
-50fad559-740c-4664-a1e5-2208af9cb4e9,chary.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,12/08/2026 02:59
-30bc83bb-4444-4282-98a1-4aaff2325fbb,researched.kiwi,available,31.98,35.68,medium,low,10,namecheap,,,01/10/2026 00:58
-af6b51a0-fa5e-43ab-8af6-fba0fa816add,receptors.kiwi,available,31.98,35.68,medium,low,9,namecheap,,,01/10/2026 18:02
-712cfd8a-94bd-450f-955e-3fd482ef0c0a,gripping.kiwi,available,31.98,35.68,high,low,8,namecheap,,,21/09/2026 15:05
-ce040387-4b9e-44e0-a1a3-821cd7e1d26a,winding.kiwi,available,31.98,35.68,medium,low,7,namecheap,,,24/08/2026 18:19
-9e046377-ced4-45de-bd03-58cd2f542c10,apis.kiwi,available,31.98,35.68,high,medium,4,namecheap,,,19/09/2026 17:28
-713b517d-ff4c-4c76-9436-e9b0c0a6dfbf,logged.kiwi,available,31.98,35.68,medium,low,6,namecheap,,,29/09/2026 16:39
-4dd0310c-8afd-4f4b-a1c5-df188ebc47a4,jamesian.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,22/08/2026 12:13
-413a0382-f6f8-4b4a-9de3-6dda9d21266b,piddling.kiwi,available,31.98,35.68,medium,low,8,namecheap,,,18/08/2026 03:33
